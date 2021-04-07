@@ -3,7 +3,7 @@
 
 CPT --> Chiral Perturbation Theory Chapter 
 
-Hos --> Hosotani Chapter (Simulation results missing)
+Hos --> Hosotani Chapter 
 
 Lat --> Lattice Formulation 
 
