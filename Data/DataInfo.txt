@@ -1,0 +1,29 @@
+* GMOR contains all the measurements obtained with mass reweighting
+    The subfolder names are b{BETA}_{NS}x{NT}. Each subfolder contains 
+    measurements for different number of flavors NF. The nomenclature is the following: 
+    maspb{BETA}_{NS}x{NT}_{NF}.txt. Each of these files has the quark mass, pion mass,
+   chiral condensate and Fpi.
+
+    -Column 1: fermion mass
+    -Columns 2, 3: Mpi, Mpi error
+    -Columns 4, 5: PbP, PbP error
+    -Columns 6, 7: Fpi, Fpi error
+
+* The other directories, the ones with name Beta{BETA} correspond
+to simulations of the two-flavor Schwinger model with Wilson fermions. All of these
+results were obtained with 10 000 measurements. The nomenclature for the subfolders
+is the same as before: b{BETA}_{NS}x{NT}. Inside those folders there are many text files
+with the following notation:
+
+    -pcacB{BETA}: pcac mass for different values of kappa.
+    -MassB{BETA}plat14: pion mass for different values of kappa. The plateau fit was performed
+     with the "chi" option and with 14 points.
+    -MassVarPlat14: the same as the previous file but the analysis was with the "variance" option.
+    -TauPbP{NS}x{NT}: Autocorrelation time of PbP.
+    -TauTop{NS}X{NT}: Autocorrelation time of topological charge.
+    -TCpbp: PbP sorted by topological sector.
+    -InfoSim: contains information of the simulations. Unfortunately I only started doing this 
+     after a while, so not all the folders have this file.
+
+
+

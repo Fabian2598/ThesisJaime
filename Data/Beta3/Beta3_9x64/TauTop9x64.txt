@@ -1,0 +1,40 @@
+#  topological charge                                              
+   9  64  3.00  0.2350  0.226  0.564  0.529
+#  topological charge                                              
+   9  64  3.00  0.2375  0.317  0.576  0.465
+#  topological charge                                              
+   9  64  3.00  0.2400  0.177  0.586  0.618
+#  topological charge                                              
+   9  64  3.00  0.2425  0.412  0.572  0.411
+#  topological charge                                              
+   9  64  3.00  0.2450    NaN  0.571  0.702
+#  topological charge                                              
+   9  64  3.00  0.2475  0.847  0.593  0.590
+#  topological charge                                              
+   9  64  3.00  0.2500  0.338  0.576  0.625
+#  topological charge                                              
+   9  64  3.00  0.2525  0.546  0.602  0.597
+#  topological charge                                              
+   9  64  3.00  0.2550  0.318  0.616  0.602
+#  topological charge                                              
+   9  64  3.00  0.2575  0.544  0.652  0.386
+#  topological charge                                              
+   9  64  3.00  0.2590  0.633  0.696  0.457
+#  topological charge                                              
+   9  64  3.00  0.2600  0.486  0.683  0.729
+#  topological charge                                              
+   9  64  3.00  0.2605  0.675  0.715  0.682
+#  topological charge                                              
+   9  64  3.00  0.2620  1.418  0.714  0.942
+#  topological charge                                              
+   9  64  3.00  0.2625  0.619  0.704  0.721
+#  topological charge                                              
+   9  64  3.00  0.2630  0.465  0.685  0.397
+#  topological charge                                              
+   9  64  3.00  0.2635  0.700  0.697  0.580
+#  topological charge                                              
+   9  64  3.00  0.2650  0.593  0.646  0.537
+#  topological charge                                              
+   9  64  3.00  0.2675  0.561  0.577  0.482
+#  topological charge                                              
+   9  64  3.00  0.2700    NaN  0.502  0.381

@@ -1,0 +1,56 @@
+#  topological charge                                              
+   8  64  5.00  0.2100  3.568  2.516  3.081
+#  topological charge                                              
+   8  64  5.00  0.2150  1.879  2.376  1.335
+#  topological charge                                              
+   8  64  5.00  0.2200  1.863  2.410  2.641
+#  topological charge                                              
+   8  64  5.00  0.2231  2.089  2.303  1.438
+#  topological charge                                              
+   8  64  5.00  0.2250  1.825  2.270  2.526
+#  topological charge                                              
+   8  64  5.00  0.2262  2.206  2.331  1.012
+#  topological charge                                              
+   8  64  5.00  0.2293  1.731  2.197  2.364
+#  topological charge                                              
+   8  64  5.00  0.2300  2.989  2.516  3.048
+#  topological charge                                              
+   8  64  5.00  0.2324  2.010  2.403  2.736
+#  topological charge                                              
+   8  64  5.00  0.2350  1.350  2.244  3.016
+#  topological charge                                              
+   8  64  5.00  0.2356  3.931  2.729  2.306
+#  topological charge                                              
+   8  64  5.00  0.2387  1.802  2.501  2.365
+#  topological charge                                              
+   8  64  5.00  0.2400  1.888  2.312  2.136
+#  topological charge                                              
+   8  64  5.00  0.2418  2.553  2.547  1.500
+#  topological charge                                              
+   8  64  5.00  0.2449  1.773  2.294  3.726
+#  topological charge                                              
+   8  64  5.00  0.2480  2.476  2.163  1.730
+#  topological charge                                              
+   8  64  5.00  0.2500  2.320  2.141  1.282
+#  topological charge                                              
+   8  64  5.00  0.2515  1.741  2.066  2.011
+#  topological charge                                              
+   8  64  5.00  0.2530  1.998  2.145  1.067
+#  topological charge                                              
+   8  64  5.00  0.2545  2.684  2.103  1.285
+#  topological charge                                              
+   8  64  5.00  0.2560  1.550  1.908  2.216
+#  topological charge                                              
+   8  64  5.00  0.2575  2.125  1.926  1.783
+#  topological charge                                              
+   8  64  5.00  0.2590  2.444  1.899  2.856
+#  topological charge                                              
+   8  64  5.00  0.2605  1.612  1.389  1.152
+#  topological charge                                              
+   8  64  5.00  0.2620  1.091  1.098  1.098
+#  topological charge                                              
+   8  64  5.00  0.2625  0.898  0.962  0.677
+#  topological charge                                              
+   8  64  5.00  0.2630  0.868  1.026  0.353
+#  topological charge                                              
+   8  64  5.00  0.2635  1.269  0.942  0.408
